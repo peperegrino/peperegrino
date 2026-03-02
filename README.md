@@ -47,7 +47,11 @@ Olá! Sou o Felipe, tenho 17 anos e sigo uma trajetória intensiva de formação
 ---
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
+ ---
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
 </p>
 
 ###
