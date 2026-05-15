@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  Desenvolvedor Back-End
+  Desenvolvedor Full stack com foco em Back-end 
 </p>
 
 ---
