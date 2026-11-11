@@ -36,5 +36,5 @@ Olá! Sou o Felipe, sigo uma trajetória intensiva de formação técnica dupla:
 ---
 
 <p align="center">
-  <sub>Atualizado automaticamente em <!-- LAST_UPDATE:START -->10/11/2026<!-- LAST_UPDATE:END --></sub>
+  <sub>Atualizado automaticamente em <!-- LAST_UPDATE:START -->11/11/2026<!-- LAST_UPDATE:END --></sub>
 </p>
